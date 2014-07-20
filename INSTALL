@@ -1,0 +1,11 @@
+This file is part of webmount.
+
+To compile and INSTALL webmount you'll need cmake >= 2.4, gettext, fuse and curl.
+
+Compiling and installing webmount:
+
+make
+make (optional: DESTDIR=/path/to/install/into) install (as root)
+
+E-Mail: manfred.mueller@fluxflux.net 
+Author web site: http://fluxflux.net/, http://webmount.org/
